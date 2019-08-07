@@ -6,4 +6,6 @@
     <string name="save_menu">save</string>
     <string name="deal_repository">traveldeals</string>
     <string name="delete_deal">Delete Deal</string>
+    <string name="logout_menu">Logout</string>
+    <string name="insert_menu">New Travel Deal</string>
 </resources>
